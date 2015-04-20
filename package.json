@@ -14,7 +14,10 @@
   "scripts": {
     "test": "mocha"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:kribblo/gulp-checksum.git"
+  },
   "license": "ISC",
   "devDependencies": {
     "mocha": "^2.2.4",
